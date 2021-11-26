@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.gameloft.android.SPMV.GLKI",
+    "sha256_cert_fingerprints":
+    ["21:73:A2:48:E2:B1:1F:97:60:B9:16:7F:39:8B:18:3C:92:81:6C:F8:FC:74:AF:D3:C6:4B:22:ED:DF:50:48:1C"]
+  }
+}]
